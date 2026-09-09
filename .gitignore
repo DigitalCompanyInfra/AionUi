@@ -63,8 +63,6 @@ typings/
 .yarn-integrity
 
 # dotenv environment variables file
-.env
-.env.test
 
 # parcel-bundler cache (https://parceljs.org/)
 .cache
@@ -98,7 +96,6 @@ out/
 
 # IDE and Editor files
 .idea
-.vscode
 
 # AI CLI tool configurations (may contain sensitive information)
 **/.claude/settings.local.json
@@ -238,3 +235,4 @@ graphify-out/
 .analysis/
 temp/
 .playwright-mcp/
+config.bat
